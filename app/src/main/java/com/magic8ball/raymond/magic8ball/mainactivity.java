@@ -18,7 +18,9 @@ public class mainactivity extends Activity {
 
 
     String[] respones = { "Yes", "No", "Check Again", "I'm not sure", "Ask again",
-            "Better luck next time", "OK", "Sure thing", "Sureeee", "Maybe", "OK", "Totally" };
+            "Better luck next time", "OK", "Sure thing", "Sureeee", "Maybe", "OK", "Totally", "Nahh",
+    "I agree", "I'm a magic ball", "Not available now", "Ask the Internet", "It's a boy",
+            "It's a girl"};
 
     int length = respones.length;
 
