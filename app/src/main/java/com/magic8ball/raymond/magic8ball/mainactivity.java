@@ -17,10 +17,12 @@ import android.widget.EditText;
 public class mainactivity extends Activity {
 
 
-    String[] respones = { "Yes", "No", "Check Again", "I'm not sure", "Ask again",
+    String[] respones = { "Yes", "Signs point to yes", "Reply hazy, try again", "No", "Check Again",
+            "I'm not sure", "Ask again",
             "Better luck next time", "OK", "Sure thing", "Sureeee", "Maybe", "OK", "Totally", "Nahh",
     "I agree", "I'm a magic ball", "Not available now", "Ask the Internet", "It's a boy",
-            "It's a girl"};
+            "It's a girl", "Without a doubt", "My sources say no", "As I see it, yes",
+            "Outlook good"};
 
     int length = respones.length;
 
